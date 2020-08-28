@@ -1,0 +1,28 @@
+[
+  {
+    "id": "d8fe5c90-bbbd-4f06-b271-89aa2b1ea287",
+    "data": [
+      {
+        "text": "hey,",
+        "userDefined": false
+      },
+      {
+        "text": " how",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]
